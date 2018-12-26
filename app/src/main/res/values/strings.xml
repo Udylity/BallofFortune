@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ball of Fortune</string>
+    <string name="buttonstarttext">Shake to begin</string>
+    <string name="settingsmenu">Settings</string>
+    
+    <string name="contentdescription">CounTracker Icon</string>
+    <string name="countrackerdescription">Download CounTracker on Google Play today</string>
+    
+    <string name="novibrator">Your device does not have a vibrator</string>
+    
+    <string name="settingsvibratetitle">Vibrate</string>
+    <string name="settingsvibratesummaryon">Vibrate is on</string>
+    <string name="settingsvibratesummaryoff">Vibrate is off</string>
+    <string name="settingssoundtitle">Sound</string>
+    <string name="settingssoundon">Voice is on</string>
+    <string name="settingssoundoff">Voice is off</string>
+    <string name="settingstitlehardware">Hardware Controls</string>
+    <string name="settingsratetitle">Rate</string>
+    <string name="settingsratesummary">Rate this app</string>
+    <string name="settingstitlemore">More</string>
+    <string name="settingstitlemoreappstitle">More apps by Udylity</string>
+    <string name="settingstitlemoreappssummary">View and download more apps</string>
+    <string name="settingsversiontitle">Application version</string>
+    <string name="settingsversionsummary">1.0</string>
+
+	
+	<string name="yes">Yes</string>
+	<string name="yestwo">So it shall be</string>
+	<string name="yesthree">Very likely</string>
+	<string name="yesfour">Absolutely</string>
+	<string name="yesfive">You can count on it</string>
+	<string name="yessix">No doubt about it</string>
+	<string name="yesseven">Of course</string>
+	<string name="yeseight">Definitely</string>
+	<string name="yesnine">More than likely</string>
+	
+	<string name="neutral">Maybe</string>
+	<string name="neutraltwo">Ask again later</string>
+	<string name="neutralthree">Answer hazy</string>
+	<string name="neutralfour">Unsure, try again</string>
+	
+	<string name="no">No</string>
+	<string name="notwo">The stars say no</string>
+	<string name="nothree">My reply is no</string>
+	<string name="nofour">Very doubtful</string>
+	<string name="nofive">Probably not</string>
+	<string name="nosix">Outlook not so good</string>
+	<string name="noseven">Definitely not</string>
+	<string name="noeight">No way</string>
+	<string name="nonine">Not at all</string>
+	
+	
+</resources>

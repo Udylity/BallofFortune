@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>@string/yes</item>
+        <item>@string/yestwo</item>
+        <item>@string/yesthree</item>
+        <item>@string/yesfour</item>
+        <item>@string/yesfive</item>
+        <item>@string/yessix</item>
+        <item>@string/yesseven</item>
+        <item>@string/yeseight</item>
+        <item>@string/yesnine</item>
+
+        <item>@string/neutral</item>
+        <item>@string/neutraltwo</item>
+        <item>@string/neutralthree</item>
+        <item>@string/neutralfour</item>
+
+        <item>@string/no</item>
+        <item>@string/notwo</item>
+        <item>@string/nothree</item>
+        <item>@string/nofour</item>
+        <item>@string/nofive</item>
+        <item>@string/nosix</item>
+        <item>@string/noseven</item>
+        <item>@string/noeight</item>
+        <item>@string/nonine</item>
+    </string-array>
+</resources>

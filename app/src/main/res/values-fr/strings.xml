@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">La Balle de la Fortune</string>
+    <string name="buttonstarttext">Secouez commencer</string>
+    <string name="settingsmenu">Paramètres</string>
+    
+    <string name="novibrator">Votre appareil ne dispose pas dun vibrateur</string>
+    
+    <string name="settingsvibratetitle">Vibrer</string>
+    <string name="settingsvibratesummaryon">Vibreur est activé</string>
+    <string name="settingsvibratesummaryoff">Vibreur est désactivé</string>
+    <string name="settingssoundtitle">Sonner</string>
+    <string name="settingssoundon">La voix est activée</string>
+    <string name="settingssoundoff">Vocale est désactivée</string>
+    <string name="settingstitlehardware">Contrôles du matériel</string>
+    <string name="settingsratetitle">Taux</string>
+    <string name="settingsratesummary">Noter cette demande</string>
+    <string name="settingstitlemore">Plus</string>
+    <string name="settingstitlemoreappstitle">Plus dapplications par Udylity</string>
+    <string name="settingstitlemoreappssummary">Voir et télécharger plus dapplications</string>
+    <string name="settingsversiontitle">Version de lapplication</string>
+    <string name="settingsversionsummary">1,0</string>
+	
+	<string name="yes">Oui</string>
+	<string name="yestwo">de sorte qu\'il est</string>
+	<string name="yesthree">Très probable</string>
+	<string name="yesfour">Absolument</string>
+	<string name="yesfive">Vous pouvez compter sur elle</string>
+	<string name="yessix">Bien sûr</string>
+	<string name="yesseven">Certainement</string>
+	<string name="yeseight">Plus que probable</string>
+	<string name="yesnine">Sans aucun doute</string>
+	
+	<string name="neutral">Peut-être</string>
+	<string name="neutraltwo">Demandez à nouveau plus tard</string>
+	<string name="neutralthree">La réponse n\'est pas claire</string>
+	<string name="neutralfour">Pas sûr, essayez à nouveau</string>
+	
+	<string name="no">Non</string>
+	<string name="notwo">Les étoiles disent pas</string>
+	<string name="nothree">Ma réponse est non</string>
+	<string name="nofour">Très incertain</string>
+	<string name="nofive">Probablement pas</string>
+	<string name="nosix">Les perspectives ne sont pas bien</string>
+	<string name="noseven">Certainement pas</string>
+	<string name="noeight">Pas du tout</string>
+	<string name="nonine">Non</string>
+	
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/settingstitlehardware" >
+    </PreferenceCategory>
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="vibrate"
+        android:summaryOn="@string/settingsvibratesummaryon"
+        android:summaryOff="@string/settingsvibratesummaryoff"
+        android:title="@string/settingsvibratetitle" >
+    </CheckBoxPreference>
+
+
+    <PreferenceCategory android:title="@string/settingstitlemore" >
+    </PreferenceCategory>
+
+    <Preference
+        android:key="dev"
+        android:summary="@string/settingstitlemoreappssummary"
+        android:title="@string/settingstitlemoreappstitle" />
+    <Preference
+        android:key="rate"
+        android:summary="@string/settingsratesummary"
+        android:title="@string/settingsratetitle" />
+    <Preference
+        android:key="version"
+        android:summary="@string/settingsversionsummary"
+        android:enabled="false"
+        android:title="@string/settingsversiontitle" />
+
+</PreferenceScreen>

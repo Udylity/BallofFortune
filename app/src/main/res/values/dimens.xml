@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingText">90dp</dimen>
+    <dimen name="paddingBottom">0dp</dimen>
+    <dimen name="paddingLeft">50dp</dimen>
+    <dimen name="textSize">15sp</dimen>
+</resources>
